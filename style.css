@@ -1,0 +1,28 @@
+ul li {
+    color: pink;
+    font-weight: bold;
+}
+
+.myClass {
+    font-style: italic;
+}
+body {
+    font-size: 24px;
+    text-align: justify;
+    background-image: url('minimalizm-gradient-background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+h1 {
+    color: pink;
+}
+h2 {
+    color: pink;
+}
+#img1 {
+    float: right;
+}
+a {
+    color: rgb(6, 248, 236)
+}
